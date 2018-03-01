@@ -28,3 +28,7 @@ Feel free to extend you example with any or all of the following for internet po
 
 - Make genders type safe.
 - Make colors type safe.
+
+## Contributing
+
+- Open a PR with your solution in a folder with your name (e.g. `/blakemerryman`) at the root level.
